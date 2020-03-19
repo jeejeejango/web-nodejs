@@ -25,5 +25,6 @@
     },
     "scripts": {
         "postinstall": "node_modules/.bin/bower --config.registry.search=https://registry.bower.io install"
+        "build": "npm install"
     }
 }
