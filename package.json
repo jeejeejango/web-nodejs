@@ -24,7 +24,7 @@
         "node": ">=0.10.10"
     },
     "scripts": {
-        "postinstall": "node_modules/.bin/bower --config.registry.search=https://registry.bower.io install"
+        "postinstall": "node_modules/.bin/bower --config.registry.search=https://registry.bower.io install",
         "build": "npm install"
     }
 }
